@@ -1,0 +1,13 @@
+Date Conversion
+
+{work in progress}
+
+conversion of dates between Gregorian and Hebrew calendars
+
+the Hebrew calendar is a lunisolar calendar that periodically incorporates leap months
+in addition to conditionally extending certain months in order to prevent certain holidays
+from ocurring on (or too near) Saturday
+
+
+convert.py
+contains date conversion algorithms
